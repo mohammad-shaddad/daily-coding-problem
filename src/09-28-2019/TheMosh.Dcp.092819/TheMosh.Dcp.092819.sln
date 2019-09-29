@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMosh.Dcp.092819", "TheMosh.Dcp.092819.csproj", "{E875EADF-C04E-47DE-9A58-6FB93F16F66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMosh.Dcp.092819.Tests", "..\TheMosh.Dcp.092819.Tests\TheMosh.Dcp.092819.Tests.csproj", "{B046143E-05BB-4285-B527-46511861566B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E875EADF-C04E-47DE-9A58-6FB93F16F66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E875EADF-C04E-47DE-9A58-6FB93F16F66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E875EADF-C04E-47DE-9A58-6FB93F16F66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E875EADF-C04E-47DE-9A58-6FB93F16F66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B046143E-05BB-4285-B527-46511861566B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B046143E-05BB-4285-B527-46511861566B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B046143E-05BB-4285-B527-46511861566B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B046143E-05BB-4285-B527-46511861566B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AEDF10-A160-4257-B471-38CAC19B9AA6}
+	EndGlobalSection
+EndGlobal
